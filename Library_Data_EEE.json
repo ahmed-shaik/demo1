@@ -1,0 +1,235 @@
+[
+ 
+ {
+  "Column1": 1,
+  "title": "Higher Engineering Mathematics(EM-I,II,III)",
+  "author": "B S Grewal",
+  "Column4": 2000,
+  "Column5": 46,
+  "imageURL": "https:\/\/images.app.goo.gl\/2fonx1ys8B3yj2abA"
+ },
+ {
+  "Column1": 2,
+  "title": "Engineering Physics",
+  "author": "R K Gaur",
+  "Column4": 2001,
+  "Column5": 9,
+  "imageURL": "https:\/\/images.app.goo.gl\/pnHt2JWei7UiEZ7J7"
+ },
+ {
+  "Column1": 3,
+  "title": "Fundamental of Physics",
+  "author": "David Halliday",
+  "Column4": 2001,
+  "Column5": 9,
+  "imageURL": "https:\/\/images.app.goo.gl\/VV1MYizj4JAL6hBG8"
+ },
+ {
+  "Column1": 4,
+  "title": "Modern Engineering Physics ",
+  "author": "A.S.Vasudeva",
+  "Column4": 2001,
+  "Column5": 7,
+  "imageURL": "https:\/\/images.app.goo.gl\/L68c7y53NgbtrQM89"
+ },
+ {
+  "Column1": 5,
+  "title": "Engineering Chemistry",
+  "author": "P.C.Jain and M.Jain",
+  "Column4": 1999,
+  "Column5": 9,
+  "imageURL": "https:\/\/images.app.goo.gl\/TcBLcJ5dAkSbTFV78"
+ },
+ {
+  "Column1": 6,
+  "title": "Engineering Chemistry",
+  "author": "R Gopalan",
+  "Column4": 1999,
+  "Column5": 2,
+  "imageURL": "https:\/\/images.app.goo.gl\/YinNKcSHPKWkCoj4A"
+ },
+ {
+  "Column1": 7,
+  "title": "Engineering Drawing & Graphics",
+  "author": "K Venugopal",
+  "Column4": 1998,
+  "Column5": 21,
+  "imageURL": "https:\/\/images.app.goo.gl\/pGpFpNwKC6VxtA9bA"
+ },
+ {
+  "Column1": 8,
+  "title": "Digital Logic and Computer Design",
+  "author": "M.Morris Mano",
+  "Column4": 2001,
+  "Column5": 9,
+  "imageURL": "https:\/\/images.app.goo.gl\/B6gJY5oyiRSWDUZw6"
+ },
+ {
+  "Column1": 9,
+  "title": "Micro Electronics",
+  "author": "Jacob Millman",
+  "Column4": 1987,
+  "Column5": 8,
+  "imageURL": "https:\/\/images.app.goo.gl\/p4Nyx1ZYR4d5ZFLg6"
+ },
+ {
+  "Column1": 10,
+  "title": "Electronic Devices and Circuits",
+  "author": "Jacob Millman",
+  "Column4": 1991,
+  "Column5": 6,
+  "imageURL": "https:\/\/images.app.goo.gl\/KHvXaMEnnQ1NGgcM6"
+ },
+ {
+  "Column1": 11,
+  "title": "Fundamental of Electrical Engineering",
+  "author": "Vincent Del Toro",
+  "Column4": 2000,
+  "Column5": 10,
+  "imageURL": "https:\/\/images.app.goo.gl\/wGnewHZpFPGyi3d1A"
+ },
+ {
+  "Column1": 12,
+  "title": "Let us C",
+  "author": "Yashavant Kanetkar",
+  "Column4": 1999,
+  "Column5": 10,
+  "imageURL": "https:\/\/images.app.goo.gl\/K7T1kHzMR424D3qq5"
+ },
+ {
+  "Column1": 13,
+  "title": "The C programming language",
+  "author": "Brian W. Kernighan and Dennis M.Ritchie",
+  "Column4": 2001,
+  "Column5": 12,
+  "imageURL": "https:\/\/images.app.goo.gl\/3MBPs6NpWGube8mz6"
+ },
+ {
+  "Column1": 14,
+  "title": "Strength of Materials",
+  "author": "S. Ramamrutham & R.Narayanan",
+  "Column4": 2000,
+  "Column5": 10,
+  "imageURL": "https:\/\/images.app.goo.gl\/qoeKis4Urm6PUDMi6"
+ },
+ {
+  "Column1": 15,
+  "title": "Engineering circuit analysis",
+  "author": "W. H. Haytjr & J. E. Kemmerly",
+  "Column4": 2000,
+  "Column5": 21,
+  "imageURL": "https:\/\/images.app.goo.gl\/mVy738JZrJR6vdMu8"
+ },
+ {
+  "Column1": 16,
+  "title": "Network analysis",
+  "author": "M. E. Vanvalkunberg",
+  "Column4": 2000,
+  "Column5": 19,
+  "imageURL": "https:\/\/images.app.goo.gl\/VTZUsao4KnAGSDeB6"
+ },
+ {
+  "Column1": 17,
+  "title": "Pulse Digital & Switching Waveforms",
+  "author": "Jacob Millman & Herbert Taub",
+  "Column4": 2000,
+  "Column5": 10,
+  "imageURL": "https:\/\/images.app.goo.gl\/swKBya3CyAKBgphJ8"
+ },
+ {
+  "Column1": 18,
+  "title": "Microprocessors and Interfacing",
+  "author": "Douglas V Hall",
+  "Column4": 1999,
+  "Column5": 20,
+  "imageURL": "https:\/\/images.app.goo.gl\/fGMvixJQTg1pV2oE7"
+ },
+ {
+  "Column1": 19,
+  "title": "Introduction to Microprocessors",
+  "author": "Aditya P Mathur",
+  "Column4": 1989,
+  "Column5": 13,
+  "imageURL": "https:\/\/images.app.goo.gl\/WBZQzzZTji1XPhQ9A"
+ },
+ {
+  "Column1": 20,
+  "title": "Programming in Ansi C",
+  "author": "E Balguruswamy",
+  "Column4": 1989,
+  "Column5": 10,
+  "imageURL": "https:\/\/images.app.goo.gl\/KzEaKXGYfMcySQxm8"
+ },
+ {
+  "Column1": 21,
+  "title": "Electromagnetics ",
+  "author": "John D Kraus and Daniel A Fleisch",
+  "Column4": 1999,
+  "Column5": 8,
+  "imageURL": "https:\/\/images.app.goo.gl\/bzjGqBngzejjH7aZ7"
+ },
+ {
+  "Column1": 22,
+  "title": "Computer Architecture Organization",
+  "author": "John P Hayes",
+  "Column4": 1998,
+  "Column5": 10,
+  "imageURL": "https:\/\/images.app.goo.gl\/DsRbxT1dkocA1dLM7"
+ },
+ {
+  "Column1": 23,
+  "title": "Electrics Power Systems",
+  "author": "C.L.Wadhwa",
+  "Column4": 2000,
+  "Column5": 10,
+  "imageURL": "https:\/\/images.app.goo.gl\/T235d6zKyMpLPpza7"
+ },
+ {
+  "Column1": 24,
+  "title": "Modern Control Engineering",
+  "author": "K.Ogata",
+  "Column4": 2000,
+  "Column5": 10,
+  "imageURL": "https:\/\/images.app.goo.gl\/BTQvukcwqc5pqM5G9"
+ },
+ {
+  "Column1": 25,
+  "title": "Integrated Circuits",
+  "author": "K.R.Botkar",
+  "Column4": 1996,
+  "Column5": 10,
+  "imageURL": "https:\/\/images.app.goo.gl\/th2GXJSeZjjN2Bck6"
+ },
+ {
+  "Column1": 26,
+  "title": "Materials Science ",
+  "author": "M.Arumugam",
+  "Column4": 1987,
+  "Column5": 5,
+  "imageURL": "https:\/\/images.app.goo.gl\/xMAPHcQodFa9wZk76"
+ },
+ {
+  "Column1": 27,
+  "title": "Power Electronics ",
+  "author": "M.D.Singh",
+  "Column4": 1998,
+  "Column5": 10,
+  "imageURL": "https:\/\/images.app.goo.gl\/RCs3gDFzzEYVviJ4A"
+ },
+ {
+  "Column1": 28,
+  "title": "Modern Power System Analysis",
+  "author": "I.J.Nagrath",
+  "Column4": 1989,
+  "Column5": 10,
+  "imageURL": "https:\/\/images.app.goo.gl\/s3muqJcRF5KQwfNg9"
+ },
+ {
+  "Column1": 29,
+  "title": "Engineering Drawing ",
+  "author": "N D Bhatt",
+  "Column4": 2000,
+  "Column5": 21,
+  "imageURL": "https:\/\/images.app.goo.gl\/Z6DNGcLPrmJy5A5p6"
+ }
+]
